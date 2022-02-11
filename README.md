@@ -29,4 +29,4 @@ Problems?
   If you're expecting a ton of variety in tier 5 POIs out there, you might be disappointed.
   
 # Installation
-It's easy.  Drop the 9-GrumpyMap mod in your mods folder, then choose "Old Grumpy County" when picking a new world.
+It's easy.  Drop the 9-GrumpyMap mod in your mods folder, then choose "DFalls-OldGrumpyCounty" when picking a new world.
