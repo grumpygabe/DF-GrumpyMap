@@ -1,6 +1,11 @@
 # What is this?
 
-Custom 7 days to die map for Darkness Falls
+Custom 7 days to die map for Darkness Falls.
+
+# Requirements
+Darkness Falls.  Obviously.
+
+# Overview
 
 This is a basic 6k custom map for Darkness Falls.
 It does not include CompoPack POIs.  It does include one special POI that is probably not meaningful outside of the group I play with.
