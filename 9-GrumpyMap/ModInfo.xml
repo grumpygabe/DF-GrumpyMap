@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="GrumpyMaps" />
+		<Description value="Gabe's custom maps." />
+		<Website value="" />
+		<Author value="grumpybeard" />
+		<Version value="0.1.0" compat="A20"/>
+	</ModInfo>
+</xml>
